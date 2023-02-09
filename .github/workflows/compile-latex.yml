@@ -15,8 +15,6 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Compile LaTeX document
-      env:
-        TEXINPUTS: "$TEXINPUTS:/project/root"
       run: |
         pdflatex -interaction=nonstopmode -halt-on-error -shell-escape main.tex
 
