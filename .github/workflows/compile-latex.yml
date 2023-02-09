@@ -16,6 +16,7 @@ jobs:
 
     - name: Compile LaTeX document
       run: |
+        tlmgr install pdfpages
         pdflatex -interaction=nonstopmode -halt-on-error -shell-escape main.tex
 
     - name: Output PDF file
