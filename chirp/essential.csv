@@ -1,0 +1,8 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+16,SEA 16,156.800000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,25.00,,50W,,,,,
+21,SEA 21,161.650000,-,4.600000,,88.5,88.5,023,NN,023,Tone->Tone,FM,25.00,,50W,,,,,
+23,WX1PA7,162.550000,off,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,8.0W,,,,,
+24,WX3PA4,162.475000,off,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,8.0W,,,,,
+25,WX4PA2,162.425000,off,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,8.0W,,,,,
+77,17.17,462.600000,,0.000000,Tone,118.8,88.5,023,NN,023,Tone->Tone,FM,5.00,,8.0W,,,,,
+80,GMRS 18,462.625000,,5.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,12.50,,50W,,,,,
